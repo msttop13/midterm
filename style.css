@@ -1,0 +1,21 @@
+body {font-family:Calibri;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+head {text-align:center;}
+div {height: 250px;
+     width: 100%;
+     border-bottom: 1px solid #d3d3d3;
+     padding-top: 20px;
+}
+.lighttext {font-family:Calibri Light;
+            font-size:13.55pt;}
+.divtext{text-align:center;
+        font-size:28pt;
+        font-weight: bolder;
+}
+.below{font-family:Calibri Light;
+            font-size:13.55pt;
+            margin-bottom: 0;
+}
+ img {padding-left: 20px;}
